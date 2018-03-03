@@ -1,0 +1,3 @@
+[submodule "MGCVocoder"]
+	path = MGCVocoder
+	url = https://github.com/VOICeVIO/MGCVocoder.git
